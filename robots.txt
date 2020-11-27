@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://bayrameda.github.io/sitemap.xml
