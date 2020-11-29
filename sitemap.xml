@@ -3,11 +3,53 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://bayrameda.github.io/</loc>
+    <loc>https://bayrameda.github.io/publication-type/1/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bayrameda.github.io/publication/conference-paper/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://bayrameda.github.io/authors/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bayrameda.github.io/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bayrameda.github.io/author/eda-bayram/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bayrameda.github.io/publication_types/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bayrameda.github.io/publication/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bayrameda.github.io/author/robert-ford/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bayrameda.github.io/tag/source-themes/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bayrameda.github.io/tags/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -15,27 +57,11 @@
   </url>
   
   <url>
-    <loc>https://bayrameda.github.io/author/nelson-bighetti/</loc>
-  </url>
-  
-  <url>
     <loc>https://bayrameda.github.io/post/</loc>
   </url>
   
   <url>
-    <loc>https://bayrameda.github.io/publication_types/</loc>
-  </url>
-  
-  <url>
-    <loc>https://bayrameda.github.io/publication/</loc>
-  </url>
-  
-  <url>
     <loc>https://bayrameda.github.io/talk/</loc>
-  </url>
-  
-  <url>
-    <loc>https://bayrameda.github.io/tags/</loc>
   </url>
   
 </urlset>
