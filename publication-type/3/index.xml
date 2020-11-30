@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Source Themes | Eda Bayram</title>
-    <link>https://bayrameda.github.io/tag/source-themes/</link>
-      <atom:link href="https://bayrameda.github.io/tag/source-themes/index.xml" rel="self" type="application/rss+xml" />
-    <description>Source Themes</description>
+    <title>3 | Eda Bayram</title>
+    <link>https://bayrameda.github.io/publication-type/3/</link>
+      <atom:link href="https://bayrameda.github.io/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
+    <description>3</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 10 Nov 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://bayrameda.github.io/images/icon_hu96effc219663886ec97529a242bc5431_179949_512x512_fill_lanczos_center_2.png</url>
-      <title>Source Themes</title>
-      <link>https://bayrameda.github.io/tag/source-themes/</link>
+      <title>3</title>
+      <link>https://bayrameda.github.io/publication-type/3/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://bayrameda.github.io/publication/node/</link>
       <pubDate>Tue, 10 Nov 2020 00:00:00 +0000</pubDate>
       <guid>https://bayrameda.github.io/publication/node/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mask Combination of Multi-layer Graphs for Global Structure Inference</title>
-      <link>https://bayrameda.github.io/publication/mask/</link>
-      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://bayrameda.github.io/publication/mask/</guid>
       <description></description>
     </item>
     
