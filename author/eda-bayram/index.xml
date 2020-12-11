@@ -5,12 +5,28 @@
     <link>https://bayrameda.github.io/author/eda-bayram/</link>
       <atom:link href="https://bayrameda.github.io/author/eda-bayram/index.xml" rel="self" type="application/rss+xml" />
     <description>Eda Bayram</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 10 Nov 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://bayrameda.github.io/images/icon_hu96effc219663886ec97529a242bc5431_179949_512x512_fill_lanczos_center_2.png</url>
       <title>Eda Bayram</title>
       <link>https://bayrameda.github.io/author/eda-bayram/</link>
     </image>
+    
+    <item>
+      <title>Node Attribute Completion in Knowledge Graphs with Multi-Relational Propagation</title>
+      <link>https://bayrameda.github.io/publication/node/</link>
+      <pubDate>Tue, 10 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://bayrameda.github.io/publication/node/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mask Combination of Multi-layer Graphs for Global Structure Inference</title>
+      <link>https://bayrameda.github.io/publication/mask/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://bayrameda.github.io/publication/mask/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
