@@ -1,117 +1,71 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://bayrameda.github.io/</loc>
     <lastmod>2021-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bayrameda.github.io/posts/</loc>
     <lastmod>2021-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bayrameda.github.io/posts/internal-project/</loc>
     <lastmod>2021-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bayrameda.github.io/tag/demo/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bayrameda.github.io/posts/external-project/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bayrameda.github.io/tags/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bayrameda.github.io/publication-type/1/</loc>
     <lastmod>2020-11-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bayrameda.github.io/author/alberto-garcia-duran/</loc>
     <lastmod>2020-11-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bayrameda.github.io/authors/</loc>
     <lastmod>2020-11-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bayrameda.github.io/author/eda-bayram/</loc>
     <lastmod>2020-11-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bayrameda.github.io/publication/node/</loc>
     <lastmod>2020-11-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bayrameda.github.io/publication_types/</loc>
     <lastmod>2020-11-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bayrameda.github.io/publication/</loc>
     <lastmod>2020-11-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bayrameda.github.io/author/robert-west/</loc>
     <lastmod>2020-11-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bayrameda.github.io/tag/source-themes/</loc>
     <lastmod>2020-11-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bayrameda.github.io/publication-type/2/</loc>
     <lastmod>2020-05-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bayrameda.github.io/author/dorina-thanou/</loc>
     <lastmod>2020-05-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bayrameda.github.io/author/elif-vural/</loc>
     <lastmod>2020-05-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bayrameda.github.io/publication/mask/</loc>
     <lastmod>2020-05-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bayrameda.github.io/author/pascal-frossard/</loc>
     <lastmod>2020-05-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://bayrameda.github.io/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://bayrameda.github.io/author/eda-bayram/</loc>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://bayrameda.github.io/author/eda-bayram-phd/</loc>
+  </url><url>
     <loc>https://bayrameda.github.io/talk/</loc>
   </url>
-  
 </urlset>
